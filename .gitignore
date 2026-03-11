@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+app/static/output/*_raw.png
+.venv/
